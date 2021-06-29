@@ -1,0 +1,1 @@
+newton((x->x-cos(x), x->1+sin(x)), 0.5) 
